@@ -1,15 +1,6 @@
-# quiz_flutter
-
-Quiz para "Flutter's"
-
-## Getting Started
-
-Este projeto é um Quiz, que visa testar o conhecimento e apoiar no desenvolvimento dos usuários.
-
-A few resources to get you started if this is your first Flutter project:
-
-##Documentação
-. Aplicativo desenvolvido para Android e iOs;
-. Arquitetura do código organizada sob pastas, código limpo;
-. Programada a estrutura das Classes e Dados;
-. Programada a passagem de Parâmetros entre Telas via Named Route;
+#Quiz em Dart|Flutter
+<h1 aling="center"> Quiz Hilab </h1>
+Documentação:
+Quiz desenvolvido em Dart|Flutter para Android e iOs. Código limpo, organizado em pastas, estruturado em classes e dados. Realizado a passagem de parâmetros entre telas via Named Route.
+<p align="center">
+<img src="https://github.com/DaianeL/quiz_flutter/blob/main/assets/images/logo_quiz.png"/></p>
